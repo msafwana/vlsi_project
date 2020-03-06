@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      msafwana
+HostName                       SOE-2531-14-LIN.cfs.uoguelph.ca
+ProcessIdentifier              14389
+ProcessCreationTime_UTC        1583532140
+ProcessCreationTime_Readable   Fri Mar  6 17:02:20 2020 EST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /export/home/users/msafwana/engg4450/project_vlsi/and/schematic/sch.oa.cdslck.dirlck
+TimeEditLocked                 Fri Mar  6 17:02:48 2020 EST
