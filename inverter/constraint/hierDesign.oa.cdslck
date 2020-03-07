@@ -12,5 +12,5 @@ ProcessCreationTime_Readable   Fri Mar  6 17:13:40 2020 EST
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /export/home/users/msafwana/ENGG4550/vlsi_project/OR_test/schematic/sch.oa.cdslck
-TimeEditLocked                 Fri Mar  6 18:04:34 2020 EST
+FilePathUsedToEditLock         /export/home/users/msafwana/ENGG4550/vlsi_project/inverter/constraint/hierDesign.oa.cdslck
+TimeEditLocked                 Fri Mar  6 19:03:04 2020 EST
