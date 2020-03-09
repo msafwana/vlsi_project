@@ -6,11 +6,11 @@
 LockStakeVersion               1.1
 LoginName                      ngondali
 HostName                       SOE-2531-13-LIN
-ProcessIdentifier              11784
-ProcessCreationTime_UTC        1583536711
-ProcessCreationTime_Readable   Fri Mar  6 18:18:31 2020 EST
-AppIdentifier                  /opt/cadence/tools/IC616/tools/dfII/bin/64bit/virtuoso
+ProcessIdentifier              18071
+ProcessCreationTime_UTC        1583715085
+ProcessCreationTime_Readable   Sun Mar  8 20:51:25 2020 EDT
+AppIdentifier                  /opt/cadence/tools/IC616/tools/dfII/bin/32bit/virtuoso
 OSType                         lnx86
 ReasonForPlacingEditLock       
-FilePathUsedToEditLock         /export/home/users/ngondali/cadence65/intro/FULL_ADDER_1BIT/constraint/prop.cfg
-TimeEditLocked                 Fri Mar  6 18:24:31 2020 EST
+FilePathUsedToEditLock         /export/home/users/ngondali/ENGG4550/vlsi_project/fulladder1bit/constraint/prop.cfg
+TimeEditLocked                 Sun Mar  8 20:54:53 2020 EDT
