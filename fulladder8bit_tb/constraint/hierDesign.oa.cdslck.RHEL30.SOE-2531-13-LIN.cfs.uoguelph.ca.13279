@@ -12,5 +12,5 @@ ProcessCreationTime_Readable   Sun Mar  8 23:47:04 2020 EDT
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /export/home/users/ngondali/ENGG4550/vlsi_project/fulladder1bit/schematic/sch.oa.cdslck.dirlck
-TimeEditLocked                 Tue Mar 10 23:25:12 2020 EDT
+FilePathUsedToEditLock         /export/home/users/ngondali/ENGG4550/vlsi_project/fulladder8bit_TB/constraint/hierDesign.oa.cdslck
+TimeEditLocked                 Mon Mar  9 02:16:00 2020 EDT

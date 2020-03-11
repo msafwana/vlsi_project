@@ -6,11 +6,11 @@
 LockStakeVersion               1.1
 LoginName                      ngondali
 HostName                       SOE-2531-13-LIN.cfs.uoguelph.ca
-ProcessIdentifier              13279
-ProcessCreationTime_UTC        1583725624
-ProcessCreationTime_Readable   Sun Mar  8 23:47:04 2020 EDT
+ProcessIdentifier              3056
+ProcessCreationTime_UTC        1583898466
+ProcessCreationTime_Readable   Tue Mar 10 23:47:46 2020 EDT
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /export/home/users/ngondali/ENGG4550/vlsi_project/fulladder1bit/schematic/sch.oa.cdslck.dirlck
-TimeEditLocked                 Tue Mar 10 23:25:12 2020 EDT
+FilePathUsedToEditLock         /export/home/users/ngondali/ENGG4550/vlsi_project/MUX8bit/symbol/symbol.oa.cdslck.dirlck
+TimeEditLocked                 Wed Mar 11 00:04:02 2020 EDT

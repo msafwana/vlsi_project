@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      ngondali
+HostName                       SOE-2531-13-LIN
+ProcessIdentifier              13279
+ProcessCreationTime_UTC        1583725622
+ProcessCreationTime_Readable   Sun Mar  8 23:47:02 2020 EDT
+AppIdentifier                  /opt/cadence/tools/IC616/tools/dfII/bin/32bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /export/home/users/ngondali/ENGG4550/vlsi_project/fulladder8bit_TB/constraint/prop.cfg
+TimeEditLocked                 Mon Mar  9 02:16:00 2020 EDT
