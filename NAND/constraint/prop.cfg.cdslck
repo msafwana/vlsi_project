@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      msafwana
+HostName                       SOE-2531-15-LIN
+ProcessIdentifier              24450
+ProcessCreationTime_UTC        1584726495
+ProcessCreationTime_Readable   Fri Mar 20 13:48:15 2020 EDT
+AppIdentifier                  /opt/cadence/tools/IC616/tools/dfII/bin/32bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /export/home/users/msafwana/ENGG4550/vlsi_project/NAND/constraint/prop.cfg
+TimeEditLocked                 Fri Mar 20 18:02:27 2020 EDT
