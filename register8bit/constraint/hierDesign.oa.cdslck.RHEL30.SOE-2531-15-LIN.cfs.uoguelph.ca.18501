@@ -6,11 +6,11 @@
 LockStakeVersion               1.1
 LoginName                      msafwana
 HostName                       SOE-2531-15-LIN.cfs.uoguelph.ca
-ProcessIdentifier              29426
-ProcessCreationTime_UTC        1585173308
-ProcessCreationTime_Readable   Wed Mar 25 17:55:08 2020 EDT
+ProcessIdentifier              18501
+ProcessCreationTime_UTC        1585425976
+ProcessCreationTime_Readable   Sat Mar 28 16:06:16 2020 EDT
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /export/home/users/msafwana/ENGG4550/vlsi_project/8bit_Register_tb/constraint/hierDesign.oa.cdslck.dirlck
-TimeEditLocked                 Wed Mar 25 17:55:51 2020 EDT
+FilePathUsedToEditLock         /export/home/users/msafwana/ENGG4550/vlsi_project/register8bit/constraint/hierDesign.oa.cdslck.dirlck
+TimeEditLocked                 Sat Mar 28 17:51:26 2020 EDT

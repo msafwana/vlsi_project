@@ -6,11 +6,11 @@
 LockStakeVersion               1.1
 LoginName                      msafwana
 HostName                       SOE-2531-15-LIN
-ProcessIdentifier              29426
-ProcessCreationTime_UTC        1585173281
-ProcessCreationTime_Readable   Wed Mar 25 17:54:41 2020 EDT
+ProcessIdentifier              18501
+ProcessCreationTime_UTC        1585425953
+ProcessCreationTime_Readable   Sat Mar 28 16:05:53 2020 EDT
 AppIdentifier                  /opt/cadence/tools/IC616/tools/dfII/bin/32bit/virtuoso
 OSType                         lnx86
 ReasonForPlacingEditLock       
-FilePathUsedToEditLock         /export/home/users/msafwana/ENGG4550/vlsi_project/8bit_Register_tb/constraint/prop.cfg
-TimeEditLocked                 Wed Mar 25 17:55:51 2020 EDT
+FilePathUsedToEditLock         /export/home/users/msafwana/ENGG4550/vlsi_project/transmissiongate/constraint/prop.cfg
+TimeEditLocked                 Sat Mar 28 18:13:43 2020 EDT
